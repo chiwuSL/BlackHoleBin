@@ -24,7 +24,7 @@ Requires Windows 10/11 x64, .NET Framework 4.8 and a Direct3D 11-capable GPU. Ri
 
 ![Animated shader demonstration](docs/media/demo.gif)
 
-[Watch / download the 6-second MP4](docs/media/demo.mp4). Media uses a neutral demonstration backdrop and the shipped GPU shader; no real desktop or files were captured. It demonstrates the effect, not a recorded deletion.
+[Watch / download the 8-second MP4](https://github.com/chiwuSL/BlackHoleBin/releases/download/v1.0.0/BlackHoleBin-lensing-demo.mp4) · [GIF](docs/media/demo.gif). The moving black hole bends a simulated desktop's file labels, icons and grid using the shipped GPU shader. No real desktop or files were captured; this shows the effect, not a recorded deletion.
 
 ## Build
 

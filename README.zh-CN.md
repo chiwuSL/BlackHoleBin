@@ -24,7 +24,7 @@
 
 ![黑洞动画演示](docs/media/demo.gif)
 
-[观看 / 下载 6 秒 MP4](docs/media/demo.mp4)。素材使用简洁演示背景及程序当前 GPU 着色器生成，未采集真实桌面或文件；视频展示特效，不是实际删除操作录像。
+[观看 / 下载 8 秒 MP4](https://github.com/chiwuSL/BlackHoleBin/releases/download/v1.0.0/BlackHoleBin-lensing-demo.mp4) · [GIF 动图](docs/media/demo.gif)。黑洞移动时，虚拟桌面的文件名、图标和网格会实时弯曲，使用程序当前 GPU 着色器渲染。未采集真实桌面或文件；演示特效，不是实际删除操作录像。
 
 ## 构建
 
