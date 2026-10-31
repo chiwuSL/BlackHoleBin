@@ -1,0 +1,16 @@
+dist/
+native/shader.h
+*.obj
+*.lib
+*.exp
+*.res
+*.cso
+*.pdb
+*.user
+*.suo
+*.log
+gpu-frames/
+test-recovery-vault/
+*-preview*.png
+BlackHoleBin-integration-test-*
+publish-demo-frames/
