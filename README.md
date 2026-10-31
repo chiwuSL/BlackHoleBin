@@ -24,7 +24,7 @@ Requires Windows 10/11 x64, .NET Framework 4.8 and a Direct3D 11-capable GPU. Ri
 
 ![Animated shader demonstration](docs/media/demo.gif)
 
-[Watch / download the 6-second MP4](docs/media/demo.mp4). Media uses a staged workspace and the shipped GPU shader; no real desktop or files were captured. It demonstrates the effect, not a recorded deletion.
+[Watch / download the 6-second MP4](docs/media/demo.mp4). Media uses a neutral demonstration backdrop and the shipped GPU shader; no real desktop or files were captured. It demonstrates the effect, not a recorded deletion.
 
 ## Build
 
